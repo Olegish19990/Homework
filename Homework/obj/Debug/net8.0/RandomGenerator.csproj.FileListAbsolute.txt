@@ -1,0 +1,11 @@
+D:\MyPROJERCT\Homework\bin\Debug\net8.0\RandomGenerator.deps.json
+D:\MyPROJERCT\Homework\bin\Debug\net8.0\RandomGenerator.dll
+D:\MyPROJERCT\Homework\bin\Debug\net8.0\RandomGenerator.pdb
+D:\MyPROJERCT\Homework\obj\Debug\net8.0\RandomGenerator.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyPROJERCT\Homework\obj\Debug\net8.0\RandomGenerator.AssemblyInfoInputs.cache
+D:\MyPROJERCT\Homework\obj\Debug\net8.0\RandomGenerator.AssemblyInfo.cs
+D:\MyPROJERCT\Homework\obj\Debug\net8.0\RandomGenerator.csproj.CoreCompileInputs.cache
+D:\MyPROJERCT\Homework\obj\Debug\net8.0\RandomGenerator.dll
+D:\MyPROJERCT\Homework\obj\Debug\net8.0\refint\RandomGenerator.dll
+D:\MyPROJERCT\Homework\obj\Debug\net8.0\RandomGenerator.pdb
+D:\MyPROJERCT\Homework\obj\Debug\net8.0\ref\RandomGenerator.dll

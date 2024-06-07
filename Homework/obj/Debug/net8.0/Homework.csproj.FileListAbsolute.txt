@@ -1,0 +1,11 @@
+D:\MyPROJERCT\Homework\bin\Debug\net8.0\Homework.deps.json
+D:\MyPROJERCT\Homework\bin\Debug\net8.0\Homework.dll
+D:\MyPROJERCT\Homework\bin\Debug\net8.0\Homework.pdb
+D:\MyPROJERCT\Homework\obj\Debug\net8.0\Homework.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyPROJERCT\Homework\obj\Debug\net8.0\Homework.AssemblyInfoInputs.cache
+D:\MyPROJERCT\Homework\obj\Debug\net8.0\Homework.AssemblyInfo.cs
+D:\MyPROJERCT\Homework\obj\Debug\net8.0\Homework.csproj.CoreCompileInputs.cache
+D:\MyPROJERCT\Homework\obj\Debug\net8.0\Homework.dll
+D:\MyPROJERCT\Homework\obj\Debug\net8.0\refint\Homework.dll
+D:\MyPROJERCT\Homework\obj\Debug\net8.0\Homework.pdb
+D:\MyPROJERCT\Homework\obj\Debug\net8.0\ref\Homework.dll

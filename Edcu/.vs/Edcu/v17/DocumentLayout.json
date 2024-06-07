@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\MyPROJERCT\\Homework08\\Edcu\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A4AD059C-6E19-41D6-9F4A-A770DC325328}|Edcu.csproj|d:\\myprojerct\\homework08\\edcu\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4AD059C-6E19-41D6-9F4A-A770DC325328}|Edcu.csproj|solutionrelative:product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4AD059C-6E19-41D6-9F4A-A770DC325328}|Edcu.csproj|d:\\myprojerct\\homework08\\edcu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4AD059C-6E19-41D6-9F4A-A770DC325328}|Edcu.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4AD059C-6E19-41D6-9F4A-A770DC325328}|Edcu.csproj|d:\\myprojerct\\homework08\\edcu\\stock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4AD059C-6E19-41D6-9F4A-A770DC325328}|Edcu.csproj|solutionrelative:stock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Stock.cs",
+              "DocumentMoniker": "D:\\MyPROJERCT\\Homework08\\Edcu\\Stock.cs",
+              "RelativeDocumentMoniker": "Stock.cs",
+              "ToolTip": "D:\\MyPROJERCT\\Homework08\\Edcu\\Stock.cs",
+              "RelativeToolTip": "Stock.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T19:31:11.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\MyPROJERCT\\Homework08\\Edcu\\Product.cs",
+              "RelativeDocumentMoniker": "Product.cs",
+              "ToolTip": "D:\\MyPROJERCT\\Homework08\\Edcu\\Product.cs",
+              "RelativeToolTip": "Product.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAmwC4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T02:06:48.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\MyPROJERCT\\Homework08\\Edcu\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\MyPROJERCT\\Homework08\\Edcu\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T00:36:23.091Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
